@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.ethereal.spire",
+        "sha256_cert_fingerprints": ["61:B5:2D:C3:78:F7:6C:68:6F:F9:80:09:18:20:2D:94:58:6A:EE:21:4C:07:36:66:5C:AB:45:5E:C3:3B:4A:47"]
+      }
+    }]
